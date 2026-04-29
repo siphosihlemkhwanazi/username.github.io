@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background: black;
+    color: white;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav a {
+    color: white;
+    margin-left: 15px;
+    text-decoration: none;
+}
+
+.hero {
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to right, #111, #333);
+    color: white;
+    text-align: center;
+}
+
+button {
+    padding: 10px 20px;
+    border: none;
+    background: #00c3ff;
+    color: white;
+    cursor: pointer;
+}
