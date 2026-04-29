@@ -1,5 +1,5 @@
 function showMessage() {
-    alert("Welcome! You just triggered JavaScript 🚀");
+    alert("Welcome! Enter Image Nation 🚀");
 }
 
 document.addEventListener("DOMContentLoaded", () => {
