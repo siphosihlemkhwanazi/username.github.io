@@ -1,5 +1,5 @@
 function showMessage() {
-    alert("Welcome! Enter Image Nation 🚀");
+    alert("Welcome! Imagination 🚀");
 }
 
 document.addEventListener("DOMContentLoaded", () => {
